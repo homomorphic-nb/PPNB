@@ -18,7 +18,7 @@ pip install pi-heaan
 
 1. Install pi-heaan
 2. Devide the test data
-  i. Change the directory name in 'data_devide.py'
+  - Change the directory name in 'data_devide.py'
 ```console
 python3 data_devide.py
 ```
