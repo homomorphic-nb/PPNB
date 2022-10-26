@@ -17,8 +17,7 @@ pip install pi-heaan
 # Procedure to training and inference the data
 
 1. Install pi-heaan
-2. Devide the test data
-  - Change the directory name in 'data_devide.py'
+2. Devide the test data : change the directory name in 'data_devide.py'
 ```console
 python3 data_devide.py
 ```
