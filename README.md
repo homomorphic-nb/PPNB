@@ -8,10 +8,21 @@
 - NB_log.py : approximate logarithm function
 - data_devide.py : devide the test data 
 
-### Pi-heaan is the simulator version of HEaaN used in the paper
-## Please install pi-heaan before running the code.
+## Pi-heaan is the simulator version of HEaaN used in the paper
+### Please install pi-heaan before running the code.
 ```console
 pip install pi-heaan
 ```
 
+# Procedure to training and inference the data
 
+1. Install pi-heaan
+2. Devide the test data
+  - Change the directory name in 'data_devide.py'
+```console
+python3 data_devide.py
+```
+3. Run shell script
+```console
+sh run.sh
+``` 
