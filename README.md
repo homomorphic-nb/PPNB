@@ -9,7 +9,8 @@ Pi-heaan is the simulator version of HEaaN.
 Some subroutines in HEaaN is not programmed in pi-heaan, therefore, we programmed by using pi-heaan with the same process.  
 
 Costs such as communication and time might be different which is represented in the paper.  
------------------------------------------------------------------------------
+
+---
 ## Brief explanation of codes
 - run.sh : shell script for running the main
 - NB_WMain.py : main code for training and classfy each data
@@ -17,6 +18,7 @@ Costs such as communication and time might be different which is represented in 
 - NB_log.py : approximate logarithm function
 - data_devide.py : devide the test data 
 
+  
 ## Procedure to training and inference the data
 
 1. Install pi-heaan
